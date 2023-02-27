@@ -1,0 +1,12 @@
+.home-page{
+  background-color: #EFEFEF;
+}
+.home-page .container{
+  width: 90%;
+  margin: 20px auto;
+}
+.home-page .gallery{
+  columns: 5 300px;
+  column-gap: 0.5em;
+  
+}

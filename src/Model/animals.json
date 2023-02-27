@@ -1,0 +1,998 @@
+{
+  "animals": [
+    {
+      "id": 60179747,
+      "organization_id": "MN103",
+      "url": "https://www.petfinder.com/cat/matias-60179747/mn/fairmont/martin-county-humane-society-mn103/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Matias",
+      "description": "Meet this domino group of four (Drake, Matias, Mardi &amp; Delby). This group of black and black &amp; white sweeties...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:59+0000",
+      "published_at": "2023-02-27T04:25:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "pawprints01@hotmail.com",
+        "phone": "(507) 238-1885",
+        "address": {
+          "address1": "522 E. Margaret Street",
+          "address2": null,
+          "city": "Fairmont",
+          "state": "MN",
+          "postcode": "56031",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179747"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/mn103"
+        }
+      }
+    },
+    {
+      "id": 60179746,
+      "organization_id": "GA59",
+      "url": "https://www.petfinder.com/dog/puglsey-60179746/ga/milledgeville/animal-rescue-foundation-inc-ga59/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Miniature Pinscher",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Apricot / Beige",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Funny",
+        "Brave",
+        "Loves kisses"
+      ],
+      "name": "Puglsey",
+      "description": "Meet our sweet Pugsley!  His sister Wednesday has already been adopted and he is ready to go to.  He is...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:46+0000",
+      "published_at": "2023-02-27T04:25:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "animalrescuefoundationinc@gmail.com",
+        "phone": "(478) 454-1273",
+        "address": {
+          "address1": "711 S. Wilkinson St.(physical)",
+          "address2": null,
+          "city": "Milledgeville",
+          "state": "GA",
+          "postcode": "31061",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179746"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ga59"
+        }
+      }
+    },
+    {
+      "id": 60179745,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/cutter-60179745/tx/austin/austin-pets-alive-tx1218/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Cattle Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cutter",
+      "description": null,
+      "organization_animal_id": "APA-A-118536",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:30+0000",
+      "published_at": "2023-02-27T04:25:29+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": "(512) 961-6519",
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179745"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1218"
+        }
+      }
+    },
+    {
+      "id": 60179743,
+      "organization_id": "NY1082",
+      "url": "https://www.petfinder.com/cat/yoli-60179743/ny/freeport/all-about-cats-rescue-inc-ny1082/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": true,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Yoli",
+      "description": "Yoli came to us without eye lids\nWe had surgery done where they took the inside of her lips to...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179743/1/?bust=1677471928"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:30+0000",
+      "published_at": "2023-02-27T04:25:29+0000",
+      "distance": null,
+      "contact": {
+        "email": "allaboutcatsrescue@gmail.com",
+        "phone": "(516) 582-6137",
+        "address": {
+          "address1": "111 East Sunrise Hwy",
+          "address2": null,
+          "city": "Freeport",
+          "state": "NY",
+          "postcode": "11520",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179743"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny1082"
+        }
+      }
+    },
+    {
+      "id": 60179744,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/roper-60179744/tx/austin/austin-pets-alive-tx1218/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Cattle Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Gray / Blue / Silver",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Roper",
+      "description": null,
+      "organization_animal_id": "APA-A-118534",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:29+0000",
+      "published_at": "2023-02-27T04:25:28+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": "(512) 961-6519",
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179744"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1218"
+        }
+      }
+    },
+    {
+      "id": 60179747,
+      "organization_id": "MN103",
+      "url": "https://www.petfinder.com/cat/matias-60179747/mn/fairmont/martin-county-humane-society-mn103/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Matias",
+      "description": "Meet this domino group of four (Drake, Matias, Mardi &amp; Delby). This group of black and black &amp; white sweeties...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:59+0000",
+      "published_at": "2023-02-27T04:25:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "pawprints01@hotmail.com",
+        "phone": "(507) 238-1885",
+        "address": {
+          "address1": "522 E. Margaret Street",
+          "address2": null,
+          "city": "Fairmont",
+          "state": "MN",
+          "postcode": "56031",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179747"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/mn103"
+        }
+      }
+    },
+    {
+      "id": 60179746,
+      "organization_id": "GA59",
+      "url": "https://www.petfinder.com/dog/puglsey-60179746/ga/milledgeville/animal-rescue-foundation-inc-ga59/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Miniature Pinscher",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Apricot / Beige",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Funny",
+        "Brave",
+        "Loves kisses"
+      ],
+      "name": "Puglsey",
+      "description": "Meet our sweet Pugsley!  His sister Wednesday has already been adopted and he is ready to go to.  He is...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:46+0000",
+      "published_at": "2023-02-27T04:25:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "animalrescuefoundationinc@gmail.com",
+        "phone": "(478) 454-1273",
+        "address": {
+          "address1": "711 S. Wilkinson St.(physical)",
+          "address2": null,
+          "city": "Milledgeville",
+          "state": "GA",
+          "postcode": "31061",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179746"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ga59"
+        }
+      }
+    },
+    {
+      "id": 60179747,
+      "organization_id": "MN103",
+      "url": "https://www.petfinder.com/cat/matias-60179747/mn/fairmont/martin-county-humane-society-mn103/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Matias",
+      "description": "Meet this domino group of four (Drake, Matias, Mardi &amp; Delby). This group of black and black &amp; white sweeties...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:59+0000",
+      "published_at": "2023-02-27T04:25:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "pawprints01@hotmail.com",
+        "phone": "(507) 238-1885",
+        "address": {
+          "address1": "522 E. Margaret Street",
+          "address2": null,
+          "city": "Fairmont",
+          "state": "MN",
+          "postcode": "56031",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179747"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/mn103"
+        }
+      }
+    },
+    {
+      "id": 60179746,
+      "organization_id": "GA59",
+      "url": "https://www.petfinder.com/dog/puglsey-60179746/ga/milledgeville/animal-rescue-foundation-inc-ga59/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Miniature Pinscher",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Apricot / Beige",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Funny",
+        "Brave",
+        "Loves kisses"
+      ],
+      "name": "Puglsey",
+      "description": "Meet our sweet Pugsley!  His sister Wednesday has already been adopted and he is ready to go to.  He is...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:46+0000",
+      "published_at": "2023-02-27T04:25:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "animalrescuefoundationinc@gmail.com",
+        "phone": "(478) 454-1273",
+        "address": {
+          "address1": "711 S. Wilkinson St.(physical)",
+          "address2": null,
+          "city": "Milledgeville",
+          "state": "GA",
+          "postcode": "31061",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179746"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ga59"
+        }
+      }
+    },
+    {
+      "id": 60179747,
+      "organization_id": "MN103",
+      "url": "https://www.petfinder.com/cat/matias-60179747/mn/fairmont/martin-county-humane-society-mn103/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Matias",
+      "description": "Meet this domino group of four (Drake, Matias, Mardi &amp; Delby). This group of black and black &amp; white sweeties...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/2/?bust=1677471957"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179747/1/?bust=1677471956"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:59+0000",
+      "published_at": "2023-02-27T04:25:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "pawprints01@hotmail.com",
+        "phone": "(507) 238-1885",
+        "address": {
+          "address1": "522 E. Margaret Street",
+          "address2": null,
+          "city": "Fairmont",
+          "state": "MN",
+          "postcode": "56031",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179747"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/mn103"
+        }
+      }
+    },
+    {
+      "id": 60179746,
+      "organization_id": "GA59",
+      "url": "https://www.petfinder.com/dog/puglsey-60179746/ga/milledgeville/animal-rescue-foundation-inc-ga59/?referrer_id=767d4c2f-c669-4856-ac2c-ba77aca36c15",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Miniature Pinscher",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Apricot / Beige",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Funny",
+        "Brave",
+        "Loves kisses"
+      ],
+      "name": "Puglsey",
+      "description": "Meet our sweet Pugsley!  His sister Wednesday has already been adopted and he is ready to go to.  He is...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/1/?bust=1677471941"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/3/?bust=1677471943"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/4/?bust=1677471943"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/60179746/2/?bust=1677471942"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-02-27T04:25:46+0000",
+      "published_at": "2023-02-27T04:25:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "animalrescuefoundationinc@gmail.com",
+        "phone": "(478) 454-1273",
+        "address": {
+          "address1": "711 S. Wilkinson St.(physical)",
+          "address2": null,
+          "city": "Milledgeville",
+          "state": "GA",
+          "postcode": "31061",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/60179746"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ga59"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 5,
+    "total_count": 247448,
+    "current_page": 2,
+    "total_pages": 49490,
+    "_links": {
+      "previous": {
+        "href": "/v2/animals?limit=5&page=1"
+      },
+      "next": {
+        "href": "/v2/animals?limit=5&page=3"
+      }
+    }
+  }
+}

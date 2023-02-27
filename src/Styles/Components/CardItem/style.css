@@ -1,0 +1,73 @@
+.wrapper-card{
+  padding-bottom: 0.5em;
+  /* width: 100%; */
+}
+.card{
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: 0.5s;
+  margin-bottom: 0,5em;
+}
+.card:hover{
+  transform: translateY(-5px);
+  box-shadow: 0 5px 2px rgba(0,0,0,0.2);
+}
+.card .img-box{
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.5s;
+  background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c);
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+  padding: 2px;
+  height: fit-content;
+}
+.card:hover .img-box{
+  opacity: 0.5;
+  
+}
+.card .img-box img{
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: 10px;
+  /* border: 1px solid ; */
+  display: block;
+  /* margin-bottom: 0.5em; */
+  /* outline: 1px solid #fff; */
+  outline-offset: -10px ;
+}
+.card .content{
+  position: absolute;
+  width: 100%;
+  height: 60%;
+  bottom: -100%;
+  padding: 20px;
+  padding-top: 60px;
+  box-sizing: border-box;
+  text-align: center;
+  transition: 0.5s;
+}
+.card:hover .content{
+  bottom: 0;
+}
+.card .content{
+  background: linear-gradient(0deg,#ff4b2b, #ff416c, transparent);
+}
+
+.card .content h2{
+  margin: 0 0 10px;
+  padding: 0;
+  color: white;
+  font-size: 20px;
+}
+.card .content h2 span{
+  color: yellow;
+  font-size: 16px;
+
+}
+.card .content p{
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 16px;
+}
