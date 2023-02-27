@@ -12,7 +12,7 @@ import "../../Styles/Pages/Register/Style.css";
 export default function Register() {
   // const { access_token } = useSelector((state) => state.user);
   const dispatch = useDispatch();
-  const navigate = useNavigate()
+  const navigate = useNavigate();
   const {
     register,
     handleSubmit,
@@ -26,13 +26,13 @@ export default function Register() {
 
   const getTokenApi = async (user) => {
     const data = {
-      "grant_type": "client_credentials",
-      "client_id": user?.Key,
-      "client_secret": user?.Password,
+      grant_type: "client_credentials",
+      client_id: user?.Key,
+      client_secret: user?.Password,
     };
     const userToken = await registerApi.post(JSON.stringify(data));
-    if(userToken?.access_token){
-      navigate("/")
+    if (userToken?.access_token) {
+      navigate("/");
     }
     setUserLogin(userToken);
   };
@@ -49,11 +49,23 @@ export default function Register() {
             <h1>Sign in</h1>
             <span>or use your account</span>
             <div className="input-control">
-              <input defaultValue="v3YvEB7MQAmosLDjPHKa3LWyfEikMU5GVzZqNLF77lFP2hsKuQ" name="Key" {...register("Key")} type="text" placeholder="Key" />
+              <input
+                // defaultValue="v3YvEB7MQAmosLDjPHKa3LWyfEikMU5GVzZqNLF77lFP2hsKuQ"
+                name="Key"
+                {...register("Key")}
+                type="text"
+                placeholder="Key"
+              />
               {errors.Key ? <span className="error-mess">{errors.Key.message}</span> : <span> </span>}
             </div>
             <div className="input-control">
-              <input defaultValue="91BEGtP8Iv5UcmGpEljgKTzYCmNwUAvCwMSyFi1H" name="Password" {...register("Password")} type="password" placeholder="Password" />
+              <input
+                // defaultValue="91BEGtP8Iv5UcmGpEljgKTzYCmNwUAvCwMSyFi1H"
+                name="Password"
+                {...register("Password")}
+                type="password"
+                placeholder="Password"
+              />
               {errors.Password ? <span className="error-mess">{errors.Password.message}</span> : <span> </span>}
             </div>
 
