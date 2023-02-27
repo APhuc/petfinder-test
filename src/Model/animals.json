@@ -983,7 +983,7 @@
   ],
   "pagination": {
     "count_per_page": 5,
-    "total_count": 247448,
+    "total_count": 100,
     "current_page": 2,
     "total_pages": 49490,
     "_links": {
