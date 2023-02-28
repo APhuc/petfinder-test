@@ -1,0 +1,35 @@
+.skeleton {
+  /* padding: 30px; */
+  /* columns: 5 300px;
+  column-gap: 0.5em; */
+}
+
+.card-loading .image,
+.card-loading h2,
+.card-loading p {
+  background: #eee;
+  background: linear-gradient(110deg, #ececec 8%, #e6e3e3 18%, #ececec 33%);
+  border-radius: 5px;
+  background-size: 200% 100%;
+  animation: 1.5s shine linear infinite;
+}
+
+.card-loading .image {
+  height: 150px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-loading h2 {
+  height: 30px;
+}
+
+.card-loading p {
+  height: 60px;
+}
+
+@keyframes shine {
+  to {
+    background-position-x: -200%;
+  }
+}

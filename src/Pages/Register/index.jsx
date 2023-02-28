@@ -50,7 +50,7 @@ export default function Register() {
             <span>or use your account</span>
             <div className="input-control">
               <input
-                // defaultValue="v3YvEB7MQAmosLDjPHKa3LWyfEikMU5GVzZqNLF77lFP2hsKuQ"
+                defaultValue="v3YvEB7MQAmosLDjPHKa3LWyfEikMU5GVzZqNLF77lFP2hsKuQ"
                 name="Key"
                 {...register("Key")}
                 type="text"
@@ -60,7 +60,7 @@ export default function Register() {
             </div>
             <div className="input-control">
               <input
-                // defaultValue="91BEGtP8Iv5UcmGpEljgKTzYCmNwUAvCwMSyFi1H"
+                defaultValue="91BEGtP8Iv5UcmGpEljgKTzYCmNwUAvCwMSyFi1H"
                 name="Password"
                 {...register("Password")}
                 type="password"
